@@ -1,0 +1,58 @@
+[
+    {
+        "fechaHora": "2025-07-11 22:05",
+        "plato": "teste comida",
+        "cantidad": 3,
+        "precioUnitario": 0,
+        "total": 0
+    },
+    {
+        "fechaHora": "2025-07-11 22:07",
+        "plato": "teste comida",
+        "cantidad": 1,
+        "precioUnitario": 8,
+        "total": 8
+    },
+    {
+        "fechaHora": "2025-07-09 22:07",
+        "plato": "bebida 1",
+        "cantidad": 2,
+        "precioUnitario": 1,
+        "total": 2
+    },
+    {
+        "fechaHora": "2025-06-17 22:10",
+        "plato": "bebida 1",
+        "cantidad": 3,
+        "precioUnitario": 1,
+        "total": 3
+    },
+    {
+        "fechaHora": "2025-06-17 22:10",
+        "plato": "teste comida",
+        "cantidad": 10,
+        "precioUnitario": 8,
+        "total": 80
+    },
+    {
+        "fechaHora": "2025-07-17 22:29",
+        "plato": "comida5",
+        "cantidad": 50,
+        "precioUnitario": 5,
+        "total": 250
+    },
+    {
+        "fechaHora": "2025-07-17 22:30",
+        "plato": "Coisinha",
+        "cantidad": 1,
+        "precioUnitario": 1000,
+        "total": 1000
+    },
+    {
+        "fechaHora": "2025-07-17 22:46",
+        "plato": "comida5",
+        "cantidad": 1,
+        "precioUnitario": 5,
+        "total": 5
+    }
+]

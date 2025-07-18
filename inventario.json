@@ -1,0 +1,41 @@
+[
+    {
+        "producto": "Cenoura Branca",
+        "categoria": "vegetales",
+        "proveedores": [
+            "0.04 kg @ S\/0.03 (Normal Inc.)",
+            "45.00 kg @ S\/45.00 (Coisinha S.A.)",
+            "-"
+        ],
+        "precioPromedio": "S\/44.96",
+        "totalStock": "45.04 kg",
+        "valorTotal": "S\/2,025.00",
+        "stock": "\u2705 Suficiente"
+    },
+    {
+        "producto": "Carne Azul",
+        "categoria": "carnes",
+        "proveedores": [
+            "22.00 ml @ S\/10.57 (Dragao S.A.)",
+            "1.00 ml @ S\/11.00 (Magia Inc.)",
+            "-"
+        ],
+        "precioPromedio": "S\/10.59",
+        "totalStock": "23.00 ml",
+        "valorTotal": "S\/243.54",
+        "stock": "\u26a0 Bajo stock"
+    },
+    {
+        "producto": "Arroz",
+        "categoria": "otros",
+        "proveedores": [
+            "3000.00 g @ S\/10.00 (Teste Brazil)",
+            "-",
+            "-"
+        ],
+        "precioPromedio": "S\/10.00",
+        "totalStock": "3,000.00 g",
+        "valorTotal": "S\/30,000.00",
+        "stock": "\u2705 Suficiente"
+    }
+]

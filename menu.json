@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1752711108556,
+        "nombre": "teste comida",
+        "tipo": "plato-principal",
+        "descripcion": "8",
+        "precioVenta": 8,
+        "margenDeseado": 8,
+        "costoProduccion": 120.52173913043478,
+        "margenReal": -93.36219336219335,
+        "ganancia": -112.52173913043478,
+        "ingredientes": [
+            {
+                "id": 1,
+                "nombre": "Produto A",
+                "cantidad": 8,
+                "unidad": "unidade",
+                "costoUnitario": 15.065217391304348,
+                "costoTotal": 120.52173913043478
+            }
+        ],
+        "fechaCreacion": "7\/16\/2025"
+    },
+    {
+        "id": 1752791436298,
+        "nombre": "Coisinha",
+        "tipo": "postre",
+        "descripcion": "",
+        "precioVenta": 1000,
+        "margenDeseado": 1,
+        "costoProduccion": 15.065217391304348,
+        "margenReal": 6537.806637806638,
+        "ganancia": 984.9347826086956,
+        "ingredientes": [
+            {
+                "id": 1,
+                "nombre": "Produto A",
+                "cantidad": 1,
+                "unidad": "unidade",
+                "costoUnitario": 15.065217391304348,
+                "costoTotal": 15.065217391304348
+            }
+        ],
+        "fechaCreacion": "7\/17\/2025"
+    },
+    {
+        "id": 1752798087628,
+        "nombre": "Carne Assada",
+        "tipo": "entrada",
+        "descripcion": "Teste",
+        "precioVenta": 25,
+        "margenDeseado": 25,
+        "costoProduccion": 0,
+        "margenReal": null,
+        "ganancia": 25,
+        "ingredientes": [
+            {
+                "id": 1,
+                "nombre": "Carne Vermelha",
+                "cantidad": 0.04,
+                "unidad": "unidade",
+                "costoUnitario": 0,
+                "costoTotal": 0
+            }
+        ],
+        "fechaCreacion": "7\/17\/2025"
+    }
+]

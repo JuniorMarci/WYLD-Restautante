@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carnes S.A.",
+        "contacto": "Juan P\u00e9rez",
+        "telefono": "1234-5678",
+        "email": "contacto@carnessa.com",
+        "productos": [
+            "Pollo entero",
+            "Carne de res"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Coisinha inc",
+        "contacto": "Sr Coiso",
+        "telefono": "551198774450",
+        "email": "nenhum@nada.com",
+        "productos": []
+    },
+    {
+        "id": 4,
+        "nombre": "Bom L\u00e1",
+        "contacto": "Okayzon",
+        "telefono": "551198774450",
+        "email": "okayzon@a.com",
+        "productos": []
+    }
+]
