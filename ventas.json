@@ -1,58 +1,65 @@
 [
     {
-        "fechaHora": "2025-07-11 22:05",
-        "plato": "teste comida",
+        "id": 1753226963000,
+        "platoId": 1753225609120,
+        "platoNombre": "Jugo de Naranja",
         "cantidad": 3,
-        "precioUnitario": 0,
-        "total": 0
+        "precioUnitario": 5,
+        "total": 15,
+        "fechaHora": "2025-07-22T23:29:23.000Z"
     },
     {
-        "fechaHora": "2025-07-11 22:07",
-        "plato": "teste comida",
+        "id": 1753226983270,
+        "platoId": 1753223757344,
+        "platoNombre": "Carne Assada",
         "cantidad": 1,
-        "precioUnitario": 8,
-        "total": 8
+        "precioUnitario": 23,
+        "total": 23,
+        "fechaHora": "2025-07-22T23:29:43.270Z"
     },
     {
-        "fechaHora": "2025-07-09 22:07",
-        "plato": "bebida 1",
-        "cantidad": 2,
-        "precioUnitario": 1,
-        "total": 2
+        "id": 1753227007962,
+        "platoId": 1753223825766,
+        "platoNombre": "Carne Frita",
+        "cantidad": 1,
+        "precioUnitario": 0.01234,
+        "total": 0.01234,
+        "fechaHora": "2025-07-22T23:30:07.962Z"
     },
     {
-        "fechaHora": "2025-06-17 22:10",
-        "plato": "bebida 1",
+        "id": 1753227036561,
+        "platoId": 1753225609120,
+        "platoNombre": "Jugo de Naranja",
+        "cantidad": 4,
+        "precioUnitario": 5,
+        "total": 20,
+        "fechaHora": "2025-07-22T23:30:36.561Z"
+    },
+    {
+        "id": 1753227326272,
+        "platoId": 1753227313346,
+        "platoNombre": "Drag\u00f3n a la Milnesa",
         "cantidad": 3,
-        "precioUnitario": 1,
-        "total": 3
+        "precioUnitario": 80,
+        "total": 240,
+        "fechaHora": "2025-07-22T23:35:26.272Z"
     },
     {
-        "fechaHora": "2025-06-17 22:10",
-        "plato": "teste comida",
-        "cantidad": 10,
-        "precioUnitario": 8,
-        "total": 80
-    },
-    {
-        "fechaHora": "2025-07-17 22:29",
-        "plato": "comida5",
-        "cantidad": 50,
+        "id": 1753227335322,
+        "platoId": 1753225609120,
+        "platoNombre": "Jugo de Naranja",
+        "cantidad": 13,
         "precioUnitario": 5,
-        "total": 250
+        "total": 65,
+        "fechaHora": "2025-07-22T23:35:35.322Z"
     },
     {
-        "fechaHora": "2025-07-17 22:30",
-        "plato": "Coisinha",
-        "cantidad": 1,
-        "precioUnitario": 1000,
-        "total": 1000
-    },
-    {
-        "fechaHora": "2025-07-17 22:46",
-        "plato": "comida5",
-        "cantidad": 1,
-        "precioUnitario": 5,
-        "total": 5
+        "id": 1753227342842,
+        "platoId": 1753223757344,
+        "platoNombre": "Carne Assada",
+        "cantidad": 4,
+        "precioUnitario": 23,
+        "total": 92,
+        "fechaHora": "2025-07-22T23:35:42.842Z"
     }
 ]

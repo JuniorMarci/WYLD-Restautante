@@ -1,41 +1,87 @@
 [
     {
-        "producto": "Cenoura Branca",
-        "categoria": "vegetales",
+        "id": 1,
+        "producto": "Pollo entero",
+        "categoria": "carnes",
+        "unidad": "kg",
         "proveedores": [
-            "0.04 kg @ S\/0.03 (Normal Inc.)",
-            "45.00 kg @ S\/45.00 (Coisinha S.A.)",
-            "-"
+            {
+                "proveedorId": 1,
+                "nombre": "Carnes S.A.",
+                "cantidad": 2,
+                "precioUnitario": 12.5,
+                "fechaCompra": "2023-05-01"
+            },
+            {
+                "proveedorId": 2,
+                "nombre": "Distribuciones XYZ",
+                "cantidad": 5,
+                "precioUnitario": 11.8,
+                "fechaCompra": "2023-05-10"
+            }
         ],
-        "precioPromedio": "S\/44.96",
-        "totalStock": "45.04 kg",
-        "valorTotal": "S\/2,025.00",
-        "stock": "\u2705 Suficiente"
+        "stockMinimo": 10
     },
     {
+        "id": 1753225510920,
         "producto": "Carne Azul",
         "categoria": "carnes",
+        "unidad": "kg",
         "proveedores": [
-            "22.00 ml @ S\/10.57 (Dragao S.A.)",
-            "1.00 ml @ S\/11.00 (Magia Inc.)",
-            "-"
+            {
+                "proveedorId": 1101029182,
+                "nombre": "Feiticeiros INC.",
+                "cantidad": 41,
+                "precioUnitario": 50,
+                "fechaCompra": "2025-07-14"
+            }
         ],
-        "precioPromedio": "S\/10.59",
-        "totalStock": "23.00 ml",
-        "valorTotal": "S\/243.54",
-        "stock": "\u26a0 Bajo stock"
+        "stockMinimo": 10
     },
     {
-        "producto": "Arroz",
+        "id": 1753226124993,
+        "producto": "Naranja Grande",
         "categoria": "otros",
+        "unidad": "piezas",
         "proveedores": [
-            "3000.00 g @ S\/10.00 (Teste Brazil)",
-            "-",
-            "-"
+            {
+                "proveedorId": 1890897952,
+                "nombre": "Compania Brasileira de Frutas",
+                "cantidad": 200,
+                "precioUnitario": 3.6,
+                "fechaCompra": "2027-02-03"
+            },
+            {
+                "proveedorId": 2126880341,
+                "nombre": "Las comidas Internacional",
+                "cantidad": 48,
+                "precioUnitario": 2.4,
+                "fechaCompra": "2026-01-02"
+            }
         ],
-        "precioPromedio": "S\/10.00",
-        "totalStock": "3,000.00 g",
-        "valorTotal": "S\/30,000.00",
-        "stock": "\u2705 Suficiente"
+        "stockMinimo": 100
+    },
+    {
+        "id": 1753226519139,
+        "producto": "Leite UTH",
+        "categoria": "lacteos",
+        "unidad": "l",
+        "proveedores": [
+            {
+                "proveedorId": 2126880341,
+                "nombre": "Las comidas Internacional",
+                "cantidad": 10,
+                "precioUnitario": 5.4,
+                "fechaCompra": "2024-08-23"
+            },
+            {
+                "proveedorId": 2,
+                "nombre": "Distribuciones XYZ",
+                "cantidad": 15,
+                "precioUnitario": 6,
+                "fechaCompra": "2023-08-23"
+            }
+        ],
+        "stockMinimo": 30
     }
 ]

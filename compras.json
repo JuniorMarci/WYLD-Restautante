@@ -1,50 +1,57 @@
 [
     {
-        "fecha": "2023-07-10",
-        "producto": "Pollo entero",
-        "proveedor": "Carnes S.A.",
-        "cantidad": 10,
-        "precioUnitario": 12.5,
-        "total": 125
+        "id": 1753225769730,
+        "productoId": 1,
+        "productoNombre": "Pollo entero",
+        "proveedorId": 894675392,
+        "proveedorNombre": "A\u00e7ougue da Villa",
+        "cantidad": 1000,
+        "precioUnitario": 40,
+        "total": 40000,
+        "fecha": "2025-07-22"
     },
     {
-        "fecha": "2023-07-12",
-        "producto": "Carne de res",
-        "proveedor": "Carnes Premium",
-        "cantidad": 5,
-        "precioUnitario": 25,
-        "total": 125
+        "id": 1753225787511,
+        "productoId": 1,
+        "productoNombre": "Pollo entero",
+        "proveedorId": 1,
+        "proveedorNombre": "Carnes S.A.",
+        "cantidad": 1000,
+        "precioUnitario": 40,
+        "total": 40000,
+        "fecha": "2025-07-22"
     },
     {
-        "fecha": "2023-07-15",
-        "producto": "Verduras",
-        "proveedor": "Distribuciones XYZ",
-        "cantidad": 20,
-        "precioUnitario": 1.5,
-        "total": 30
+        "id": 1753225826194,
+        "productoId": 1,
+        "productoNombre": "Pollo entero",
+        "proveedorId": 1,
+        "proveedorNombre": "Carnes S.A.",
+        "cantidad": 100,
+        "precioUnitario": 50,
+        "total": 5000,
+        "fecha": "2025-07-22"
     },
     {
-        "fecha": "2025-07-16 15:49:14",
-        "producto": "Produto B",
-        "proveedor": "Distribuciones XYZ",
-        "cantidad": "5",
-        "precioUnitario": "50",
-        "total": 250
+        "id": 1753226558251,
+        "productoId": 1753226124993,
+        "productoNombre": "Naranja Grande",
+        "proveedorId": 1890897952,
+        "proveedorNombre": "Compania Brasileira de Frutas",
+        "cantidad": 100,
+        "precioUnitario": 3.8,
+        "total": 380,
+        "fecha": "2025-07-22"
     },
     {
-        "fecha": "2025-07-16 15:50:34",
-        "producto": "Produto A",
-        "proveedor": "Carnes S.A.",
-        "cantidad": "2",
-        "precioUnitario": "20",
-        "total": 40
-    },
-    {
-        "fecha": "2025-07-16 16:03:49",
-        "producto": "Produto B",
-        "proveedor": "Carnes S.A.",
-        "cantidad": "5",
-        "precioUnitario": "5",
-        "total": 25
+        "id": 1753227616437,
+        "productoId": 1753226519139,
+        "productoNombre": "Leite UTH",
+        "proveedorId": 2126880341,
+        "proveedorNombre": "Las comidas Internacional",
+        "cantidad": 80,
+        "precioUnitario": 6.2,
+        "total": 496,
+        "fecha": "2025-07-22"
     }
 ]

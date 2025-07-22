@@ -1,68 +1,113 @@
 [
     {
-        "id": 1752711108556,
-        "nombre": "teste comida",
-        "tipo": "plato-principal",
-        "descripcion": "8",
-        "precioVenta": 8,
-        "margenDeseado": 8,
-        "costoProduccion": 120.52173913043478,
-        "margenReal": -93.36219336219335,
-        "ganancia": -112.52173913043478,
-        "ingredientes": [
-            {
-                "id": 1,
-                "nombre": "Produto A",
-                "cantidad": 8,
-                "unidad": "unidade",
-                "costoUnitario": 15.065217391304348,
-                "costoTotal": 120.52173913043478
-            }
-        ],
-        "fechaCreacion": "7\/16\/2025"
-    },
-    {
-        "id": 1752791436298,
-        "nombre": "Coisinha",
-        "tipo": "postre",
-        "descripcion": "",
-        "precioVenta": 1000,
-        "margenDeseado": 1,
-        "costoProduccion": 15.065217391304348,
-        "margenReal": 6537.806637806638,
-        "ganancia": 984.9347826086956,
-        "ingredientes": [
-            {
-                "id": 1,
-                "nombre": "Produto A",
-                "cantidad": 1,
-                "unidad": "unidade",
-                "costoUnitario": 15.065217391304348,
-                "costoTotal": 15.065217391304348
-            }
-        ],
-        "fechaCreacion": "7\/17\/2025"
-    },
-    {
-        "id": 1752798087628,
+        "id": 1753223757344,
         "nombre": "Carne Assada",
-        "tipo": "entrada",
-        "descripcion": "Teste",
-        "precioVenta": 25,
-        "margenDeseado": 25,
-        "costoProduccion": 0,
-        "margenReal": null,
-        "ganancia": 25,
+        "tipo": "plato-principal",
+        "descripcion": "outr teste",
+        "precioVenta": 23,
+        "margenDeseado": 1.01,
+        "costoProduccion": 24.533333333333335,
+        "margenReal": -6.250000000000007,
+        "ganancia": -1.533333333333335,
         "ingredientes": [
             {
                 "id": 1,
-                "nombre": "Carne Vermelha",
-                "cantidad": 0.04,
-                "unidad": "unidade",
-                "costoUnitario": 0,
-                "costoTotal": 0
+                "nombre": "Pollo entero",
+                "cantidad": 2,
+                "unidad": "kg",
+                "costoUnitario": 12.266666666666667,
+                "costoTotal": 24.533333333333335
             }
         ],
-        "fechaCreacion": "7\/17\/2025"
+        "fechaCreacion": "7\/22\/2025"
+    },
+    {
+        "id": 1753223825766,
+        "nombre": "Carne Frita",
+        "tipo": "plato-principal",
+        "descripcion": "34",
+        "precioVenta": 0.01234,
+        "margenDeseado": 34,
+        "costoProduccion": 147.20000000000002,
+        "margenReal": -99.9916168478261,
+        "ganancia": -147.18766000000002,
+        "ingredientes": [
+            {
+                "id": 1,
+                "nombre": "Pollo entero",
+                "cantidad": 12,
+                "unidad": "kg",
+                "costoUnitario": 12.266666666666667,
+                "costoTotal": 147.20000000000002
+            }
+        ],
+        "fechaCreacion": "7\/22\/2025"
+    },
+    {
+        "id": 1753225192565,
+        "nombre": "134",
+        "tipo": "plato-principal",
+        "descripcion": "234",
+        "precioVenta": 0.09,
+        "margenDeseado": 0.01,
+        "costoProduccion": 4207.466666666667,
+        "margenReal": -99.99786094562047,
+        "ganancia": -4207.376666666667,
+        "ingredientes": [
+            {
+                "id": 1,
+                "nombre": "Pollo entero",
+                "cantidad": 343,
+                "unidad": "kg",
+                "costoUnitario": 12.266666666666667,
+                "costoTotal": 4207.466666666667
+            }
+        ],
+        "fechaCreacion": "7\/22\/2025"
+    },
+    {
+        "id": 1753225609120,
+        "nombre": "Jugo de Naranja",
+        "tipo": "bebida",
+        "descripcion": "Del\u00edcia!",
+        "precioVenta": 5,
+        "margenDeseado": 10,
+        "costoProduccion": 11.426666666666668,
+        "margenReal": -56.24270711785297,
+        "ganancia": -6.426666666666668,
+        "ingredientes": [
+            {
+                "id": 1753226124993,
+                "nombre": "Naranja Grande",
+                "cantidad": 4,
+                "unidad": "piezas",
+                "costoUnitario": 2.856666666666667,
+                "costoTotal": 11.426666666666668
+            }
+        ],
+        "fechaCreacion": "7\/22\/2025",
+        "esBar": true
+    },
+    {
+        "id": 1753227313346,
+        "nombre": "Drag\u00f3n a la Milnesa",
+        "tipo": "plato-principal",
+        "descripcion": "Do fundo da magia",
+        "precioVenta": 80,
+        "margenDeseado": 20,
+        "costoProduccion": 150,
+        "margenReal": -46.666666666666664,
+        "ganancia": -70,
+        "ingredientes": [
+            {
+                "id": 1753225510920,
+                "nombre": "Carne Azul",
+                "cantidad": 3,
+                "unidad": "kg",
+                "costoUnitario": 50,
+                "costoTotal": 150
+            }
+        ],
+        "fechaCreacion": "7\/22\/2025"
     }
 ]
